@@ -1,7 +1,7 @@
 # 💫 Hey, I'm Ishwari:
-* AWS & DevOps enthusiast with hands-on experience in *CI/CD, containerization, and IaC*<br>*
-* Strong foundation in *Linux, automation, and infrastructure monitoring*<br>*
-* From *Automation & Robotics* → transitioning into *Cloud & DevOps*<br>*
+* AWS & DevOps enthusiast with hands-on experience in *CI/CD, containerization, and IaC*<br>
+* Strong foundation in *Linux, automation, and infrastructure monitoring*<br>
+* From *Automation & Robotics* → transitioning into *Cloud & DevOps*<br>
 * Believe in learning by building and improving one commit at a time
 
 
