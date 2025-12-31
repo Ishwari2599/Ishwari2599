@@ -1,5 +1,8 @@
 # 💫 Hey, I'm Ishwari:
-* AWS & DevOps enthusiast with hands-on experience in *CI/CD, containerization, and IaC*<br>* Strong foundation in *Linux, automation, and infrastructure monitoring*<br>* From *Automation & Robotics* → transitioning into *Cloud & DevOps*<br>* Believe in learning by building and improving one commit at a time
+* AWS & DevOps enthusiast with hands-on experience in *CI/CD, containerization, and IaC*<br>*
+* Strong foundation in *Linux, automation, and infrastructure monitoring*<br>*
+* From *Automation & Robotics* → transitioning into *Cloud & DevOps*<br>*
+* Believe in learning by building and improving one commit at a time
 
 
 ## 🌐 Socials:
@@ -11,8 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ishwari2599&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ishwari2599&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwari2599&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Ishwari2599&icon=0&color=0)](https://visitcount.itsvg.in)
-
